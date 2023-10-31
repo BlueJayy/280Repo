@@ -13,4 +13,9 @@ public class playerController : MonoBehaviour
         //moves player
 
     }
+
+    private Jump()
+    {
+        //makes the player jump
+    }
 }
